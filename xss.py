@@ -37,7 +37,7 @@ def scan_for_xss(url):
     except Exception as e:
         print("حدث خطأ: ", e)
 
-start_url = "https://example.com"
+start_url = "الرابط الذي تريده"
 
 max_depth = 2
 
