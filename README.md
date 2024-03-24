@@ -16,9 +16,9 @@ This program is written in Python and is used to scan for potential XSS vulnerab
 2. Specify the desired depth for scanning in the `max_depth` variable.
 3. Run the program, and it will begin gathering links and searching for vulnerabilities.
 
-::: warning
+## Warning
 Ensure that you have proper authorization before scanning any website. Unauthorized scanning may violate terms of service and could be illegal.
-:::
+
 
 ## Requirements
 
